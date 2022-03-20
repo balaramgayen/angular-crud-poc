@@ -1,0 +1,86 @@
+{
+  "productList": [
+    {
+      "productName": "bulb",
+      "category": "Electronics",
+      "price": 150,
+      "comment": "this is blub",
+      "date": "2022-03-12T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "id": 3
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruit",
+      "price": 50,
+      "comment": "fresh product",
+      "date": "2022-03-19T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "id": 4
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "price": 20,
+      "comment": "fresh potato",
+      "date": "2022-03-19T18:30:00.000Z",
+      "freshness": "Brand New",
+      "id": 5
+    },
+    {
+      "productName": "Fan",
+      "category": "Electronics",
+      "price": 1500,
+      "comment": "This is second hand fan",
+      "date": "2022-03-06T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "id": 6
+    },
+    {
+      "productName": "laptop",
+      "category": "Electronics",
+      "price": 46000,
+      "comment": "This is a dell laptop",
+      "date": "2022-03-19T18:30:00.000Z",
+      "freshness": "Brand New",
+      "id": 7
+    },
+    {
+      "productName": "mouse",
+      "category": "Electronics",
+      "price": 150,
+      "comment": "this is second hand mouse",
+      "date": "2022-03-12T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "id": 8
+    },
+    {
+      "productName": "apple",
+      "category": "Fruit",
+      "price": 80,
+      "comment": "fresh kasmiri apple",
+      "date": "2022-03-19T18:30:00.000Z",
+      "freshness": "Brand New",
+      "id": 9
+    },
+    {
+      "productName": "mobile",
+      "category": "Electronics",
+      "price": 10000,
+      "comment": "this is refurbished realme mobile",
+      "date": "2022-03-07T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
